@@ -125,10 +125,12 @@ git clone https://bitbucket.org/nygcresearch/ldetect-data.git
 ---
 
 ---
+
 ## LD Matrices 
 
 Download our pre-computed LD Matrices for hg19:
 [http://195.251.108.185/ref_panels/TOP_LD/](http://195.251.108.185/ref_panels/TOP_LD/)
+
 ---
 
 ## Citation
