@@ -20,7 +20,7 @@ For questions, feedback or collaborations, feel free to reach out:
 - **IBSS algorithm** (SuSiE-RSS) as the core fine-mapping engine
 - **Stochastic Warm-Start** initialization of the IBSS components to avoid local optima in complex LD regions (inspired by the SSS FINEMAP algorithm)
 - **Functional Annotation support** via EM algorithm 
-- **Genome-Wide pipeline**: automatic Summary Statistics and LD Matrix batching on pre-computed per chromosome LD Matrices, based on LD Block Borders from ldetect (Berisa et al. 2016)
+- **Genome-Wide pipeline**: automatic Summary Statistics and LD Matrix batching on pre-computed per chromosome LD Matrices, based on LD Block Borders from ldetect 
 
 ---
 
