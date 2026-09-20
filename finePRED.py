@@ -1,5 +1,5 @@
 """
-finePRED: Fine-mapping on GWAS Summary Statistics tool 
+finePRED: a fast and efficient software for single and multi locus fine-mapping analysis of GWAS summary statistics
 ==============================================================
 
 finePRED is the first fine-mapping tool on GWAS summary statistics to offer 2 analysis modes: 
