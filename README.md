@@ -1,4 +1,4 @@
-# finePRED
+# finePRED: a fast and efficient software for single and multi locus fine-mapping analysis of GWAS summary statistics
 
 **finePRED** is a Bayesian fine-mapping tool for GWAS summary statistics.
 It combines state-of-the-art approaches into a unified, accessible framework, with a novel extension:
@@ -137,9 +137,22 @@ Download our pre-computed LD Matrices for hg19:
 
 If you use finePRED in your work, please cite:
 
-> Evangelia Athanasiadi, Dionysios Kandylas, Pantelis G. Bagos (2026). *finePRED: 
->
-> 
+```bibtex
+@article{athanasiadi2026finepred,
+  author    = {Athanasiadi, Evangelia and Kandylas, Dionysios and 
+               Kontou, Panagiota I. and Bagos, Pantelis G.},
+  title     = {finePRED: a fast and efficient software for single 
+               and multi locus fine-mapping analysis of GWAS 
+               summary statistics},
+  year      = {2026},
+  note      = {Manuscript in preparation}
+}
+```
+
+> Athanasiadi E., Kandylas D., Kontou P.I., Bagos P.G. (2026).
+> *finePRED: a fast and efficient software for single and multi locus 
+> fine-mapping analysis of GWAS summary statistics.*
+> Manuscript in preparation.
 
 finePRED builds on the following methods:
 - **SuSiE-RSS** (Zou et al. 2022) — IBSS algorithm
